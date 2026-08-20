@@ -36,13 +36,13 @@ ADX 미디에이션 라이브러리 및 광고 네트워크 어댑터를 Swift P
 4. **Choose Package Products** 화면에서 설치할 product 선택:
 
    ```
-   ✅ ADX-AdPie          → 사용할 어댑터만 체크
+   ✅ GoogleMobileAds-Meta → 사용할 어댑터만 체크
+   ✅ ADX-AdPie            → 사용할 어댑터만 체크
    ☐ ADX-GoogleAds       
-   ☐  ADX-AppLovin
-   ☐  ADX-Fyber
-   ☐  ADX-Pangle
-   ☐  ADX-UnityAds
-   ✅  GoogleMobileAds-Meta → 사용할 어댑터만 체크
+   ☐ ADX-AppLovin
+   ☐ ADX-Fyber
+   ☐ ADX-Pangle
+   ☐ ADX-UnityAds
    ```
 
 5. **Add Package** 클릭
